@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/daberrios9/active-directory-configure-create)
-  - 
+  - [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/daberrios9/cloud-azure-soc-honeynet/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/daberrios9/azure-network-protocols)
 
 
