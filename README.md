@@ -14,7 +14,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/daberrios9/ticket-lifecycle)
 
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Certifications:</h2>
+  - [AWS Certified Cloud Practitioner]
+  - [CompTIA Security+]
+  - [CompTIA Network+]
 
 
 
