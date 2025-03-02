@@ -14,10 +14,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/daberrios9/ticket-lifecycle)
 
 
-<h2>🤳Certifications:</h2>
-  - [AWS Certified Cloud Practitioner]
-  - [CompTIA Security+]
-  - [CompTIA Network+]
+<h2>Certifications:</h2>
+  - [AWS Certified Cloud Practitioner] 
+  - [CompTIA Security+] (https://www.credly.com/badges/dce0b22c-8ee8-4a88-b82c-3d723444c9ad)
+  - [CompTIA Network+] (https://www.credly.com/badges/4766dd90-cace-4a3f-a127-ce5b6f6fe79e)
 
 
 
