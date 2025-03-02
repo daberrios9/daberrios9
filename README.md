@@ -16,7 +16,9 @@
 
 - <h2>Certifications:</h2>
   - [AWS Certified Cloud Practitioner] (https://www.credly.com/badges/7b0d7f63-78f6-4805-bb64-54bdd348d117)
+  
   - [CompTIA Security+] (https://www.credly.com/badges/dce0b22c-8ee8-4a88-b82c-3d723444c9ad)
+    
   - [CompTIA Network+] (https://www.credly.com/badges/4766dd90-cace-4a3f-a127-ce5b6f6fe79e)
 
 
