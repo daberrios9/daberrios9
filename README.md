@@ -6,7 +6,7 @@
   - [Vulnerability Management Program Implementation](https://github.com/daberrios9/vulnerability-management-program)
 
 - <b>🔐 Threat Hunting Lab</b>
-  - [Vulnerability Management Program Implementation](https://github.com/daberrios9/vulnerability-management-program)
+  - [Threat Hunting Scenario](https://github.com/daberrios9/threat-hunting-scenario-tor-)
 
 - <b>☁️Microsoft Azure</b>
   - [Installing Active Directory and Creating Users w/ PowerShell](https://github.com/daberrios9/active-directory-configure-create)
