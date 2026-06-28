@@ -5,7 +5,7 @@
 - <b>⚠️Vulnerability Management Projects</b>
   - [Vulnerability Management Program Implementation](https://github.com/daberrios9/vulnerability-management-program)
 
-- <b>🔐 Threat Hunting Lab and Threat Hunt: EMBERFORGE</b>
+- <b>🔐 Threat Hunting Lab and Threat Hunt: SECOND VECTOR: M365 Compromise/BEC & Identity</b>
   - [Threat Hunting Scenario](https://github.com/daberrios9/threat-hunting-scenario-tor-)
   - [Threat Hunt:EMBERFORGE](https://github.com/daberrios9/threat-hunt-EMBERFORGE)
 
